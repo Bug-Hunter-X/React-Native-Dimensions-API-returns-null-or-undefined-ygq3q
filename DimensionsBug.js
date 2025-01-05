@@ -1,0 +1,1 @@
+This error occurs when using the `Dimensions` API in React Native to get screen dimensions, but the value is unexpectedly null or undefined. This often happens when trying to access the dimensions before the component has fully mounted or when the dimensions haven't been calculated yet.
